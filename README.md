@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist & ML Enthusiast</h3>
 
+### 🚀 About Me:
+- 🔭 I’m currently working on real-world ML & Data Science projects  
+- 🌱 I’m currently learning advanced machine learning and model deployment  
+- 🧠 I love solving problems with data  
+- 📫 Reach me at: **raushankrrgupta1@gmail.com**
 - 🧠 5⭐ on HackerRank in Python, C/C++ & SQL  
 - 🔍 Solving Data Structures & Algorithms on multiple platforms  
 - 💡 Always learning new things in AI/ML and data analysis  
-- 📫 How to reach me: **raushankrrgupta1@gmail.com**
+
 
 ### 🧩 Coding Profiles:
 
